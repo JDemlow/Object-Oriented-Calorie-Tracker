@@ -1,3 +1,5 @@
+// Calorie Tracker Class
+
 class CalorieTracker {
   constructor() {
     this._calorieLimit = 2000;
@@ -120,6 +122,8 @@ class Workout {
     this.calories = calories;
   }
 }
+
+// App Class
 
 class App {
   constructor() {
